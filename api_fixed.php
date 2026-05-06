@@ -10,10 +10,10 @@ if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
 }
 
 class LoginHandler {
-    private $servername = 'ao657.brighton.domains';
-    private $username   = 'ao657_login';
-    private $password   = 'Login123!';
-    private $dbname     = 'ao657_LoginHandler';
+    private $servername = 'xxxx';
+    private $username   = 'xxx';
+    private $password   = 'xxx';
+    private $dbname     = 'xxxxxxxxxxxxx';
     private $conn;
 
     public function __construct() {
