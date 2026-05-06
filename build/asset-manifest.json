@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.510d4c7d.css",
+    "main.js": "/build/static/js/main.4b6c6a03.js",
+    "static/js/453.f544e2fe.chunk.js": "/build/static/js/453.f544e2fe.chunk.js",
+    "static/media/LoginBackground.png": "/build/static/media/LoginBackground.55a0638c2012cb8c47c0.png",
+    "static/media/BlueBackground.png": "/build/static/media/BlueBackground.81e2ac5df0415ce20a1e.png",
+    "static/media/ScoutImage.png": "/build/static/media/ScoutImage.1754d69b621215ca95ee.png",
+    "static/media/PlayerImage.png": "/build/static/media/PlayerImage.a8427db9f9cb9a9ac1e0.png",
+    "static/media/Gold.jpg": "/build/static/media/Gold.213f9c854e6e10dda330.jpg",
+    "static/media/Bronze.jpg": "/build/static/media/Bronze.9f5b00617e2b3e61faff.jpg",
+    "static/media/Silver.jpg": "/build/static/media/Silver.0786710d8fae5bf0573d.jpg",
+    "static/media/Crimsonbg.avif": "/build/static/media/Crimsonbg.0b317edd57dbf75da271.avif",
+    "index.html": "/build/index.html",
+    "static/media/default-avatar.svg": "/build/static/media/default-avatar.c3ed000c800a7639f102842cdf6edb40.svg",
+    "main.510d4c7d.css.map": "/build/static/css/main.510d4c7d.css.map",
+    "main.4b6c6a03.js.map": "/build/static/js/main.4b6c6a03.js.map",
+    "453.f544e2fe.chunk.js.map": "/build/static/js/453.f544e2fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.510d4c7d.css",
+    "static/js/main.4b6c6a03.js"
+  ]
+}
